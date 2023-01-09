@@ -34,4 +34,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu2014204&" alt="priyanshu2014204" /></p>
 <hr>
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" align="left">
+<div color="red">
+  
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" align="left" height="200px">
+<img src="https://media4.giphy.com/media/FlPJcTplkfefDCKq2b/giphy.gif?cid=ecf05e47i3yl5cinsfxftuuf0r263om1fvym52sp816d8xhq&rid=giphy.gif&ct=g" height="200px">
+  </div>
