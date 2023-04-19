@@ -35,9 +35,11 @@
 
 
 ## Projects 
-|S.No| Project | Tech-Stacks |  Collaborative | Role| Span (Days) |Clone of|
+|S.No| Project | Tech-Stacks |  Collaborative | Role| Span (Days) |Clone of|   
 |:--:| :----------------------------: | :----------------------------------------------:|:--------:|:---------:|:-----:|:----------------:|
-| 1 |  [Booking.com](https://booking-com-five.vercel.app)| JavaScript, React , Node js , Cloudnary, Express Js , MongoSB | `No`|  Solo| 5 |[booking.com](https://www.avis.com/en/home)|
+| 1 |  [Booking.com](https://booking-com-five.vercel.app)| JavaScript, React , Node js , Cloudnary, Express Js , MongoSB | `No`|  Solo| 5 |[booking.com]
+| 2 |  [playo.com](https://take-live-calls.vercel.app/)| JavaScript, React , Node js , Relationships, Express Js , MongoSB | `No`|  Solo| 4 |[playo.com]
+
     
 
 
